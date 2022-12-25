@@ -1,3 +1,4 @@
+//sample1
 
 console.log("Masai School");
 
